@@ -1,4 +1,4 @@
-package com.koushikdutta.razr.bootstrap;
+package com.stsdevteam.razr.bootstrap;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -10,7 +10,7 @@ import java.util.Vector;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-import com.koushikdutta.razr.bootstrap.R;
+import com.stsdevteam.razr.bootstrap.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

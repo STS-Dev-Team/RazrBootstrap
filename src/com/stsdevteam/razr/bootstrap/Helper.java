@@ -1,4 +1,4 @@
-package com.koushikdutta.razr.bootstrap;
+package com.stsdevteam.razr.bootstrap;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
